@@ -1,1 +1,1 @@
-# mannat.com
+# mannat
